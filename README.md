@@ -10,3 +10,6 @@ Each landing sequence in a determined runway – or multiple runways –, lies w
 
 # Solution
 To reach optimal solutions to the problem the DOCplex mp and cp solvers were used. Regarding multiple runaways sequence landing problem, using CP model, was developed an original approach that was proven very efficient considering the obtained feasible results.
+
+# Authors
+[João Pedro Pêgo](up199502401@up.pt), [Pedro Gouveia](202100813@up.pt), [Ricardo Vilaça] (201308080@up.pt)
